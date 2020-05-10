@@ -8,8 +8,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: Bacaan Seru
-description: Semua Bacaan Seru hanya di bacaanseru.com
+name: Sekarang Lagi Viral
+description: Informasi Terupdate yang sekarang lagi viral
 logo: assets/images/logo.png
 favicon: assets/images/logo.png
 baseurl: 
